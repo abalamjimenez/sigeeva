@@ -170,12 +170,6 @@
                                 <ul class="nav nav-treeview">
 
                                     <li class="nav-item">
-                                        <a href="{{ route('bitacora') }}" class="nav-link ">
-                                            <i class="fas fa-circle-notch nav-icon"></i>
-                                            <p>Bitácora</p>
-                                        </a>
-                                    </li>
-                                    <li class="nav-item">
                                         <a href="{{ route('tools.paseDeLista') }}" class="nav-link ">
                                             <i class="fas fa-circle-notch nav-icon"></i>
                                             <p>Pase de lista</p>
