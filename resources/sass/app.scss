@@ -1,0 +1,16 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+@import 'miarchivo.css';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Agregar los archivos css de adminlte
+@import '~admin-lte/dist/css/adminlte.css';
+
+@import '~select2/dist/css/select2.css';
+@import '~select2-bootstrap4-theme/dist/select2-bootstrap4.css';
